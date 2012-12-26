@@ -1,21 +1,24 @@
 # New project boilerplate
 
-## Guaranteed to decrease your Hacktivation Energy&trade; by over 9000.
+### Guaranteed to decrease your Hacktivation Energy&trade; by over 9000!!
 
 ### Features:
 
-- Minimal HTML5 boilerplate which includes:
+- Minimal HTML5 boilerplate with:
+
   - Blank `main.js` file for a quick start.
   - Useful `utils.js` file with handy functions.
   - Latest [jQuery](http://jquery.com/) and [Underscore.js](http://underscorejs.org/).
 
 - [Stylus](http://learnboost.github.com/stylus/) and [Nib](http://visionmedia.github.com/nib/) for better CSS.
+
   - Install Stylus/Nib with `npm install`
   - Watch for changes with `make`
 
 - Default .gitignore
 
-### MIT License
+
+### MIT License, yo
 
 Copyright (c) 2012 [Feross Aboukhadijeh](http://feross.org)
 
